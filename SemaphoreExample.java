@@ -1,6 +1,6 @@
 //solomon kasahun 346254824
 //shmuel lemlem 209487594
-//https://github.com/ShmuelLemlem
+//https://github.com/ShmuelLemlem/project4
 package matala4;
 
 import java.util.concurrent.*;
